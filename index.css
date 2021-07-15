@@ -1,0 +1,89 @@
+.body{
+  background: gray;
+  user-select: none;
+  text-align: center;
+  border-radius: 0%;
+
+
+
+
+}
+.jocslika1{
+  position: fixed;
+  left: 0.6%;
+  top: 44.9%;
+  background: url("joc.png");
+  pulsiranj: 5000ms;
+
+}
+
+.joccovek{
+  position: fixed;
+  left: 40%;
+  top: 44.9%;
+
+
+}
+button{
+  background-color: white; /* Green */
+  border: none;
+  color: black;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  user-select: none;
+  position: fixed;
+  left:46.2%;
+  top: 39%;
+  border-radius: 10%;
+  
+}
+
+.glava {
+    padding: 5%;
+    background: black;
+    user-select: none;
+    text-align: center;
+    border-radius: 0%;
+  }
+
+  .levo {
+    text-emphasis-color: red;
+    position: fixed;
+    left: 2%;
+    top: 0%;
+    opacity: 1;
+    color: white;
+    user-select: none;
+    text-align: left;
+    border-radius: 0%;
+  }
+  .glava2{
+
+    padding: 1%;
+    background: rgb(0, 0, 0);
+    opacity: 0.5;
+    user-select: none;
+    text-align: center;
+    border-radius: 0%;
+
+
+  }
+  .slika{
+    padding: 5%;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    background: url("logo.png");
+
+
+
+
+  }
+
+
+
+
+  
